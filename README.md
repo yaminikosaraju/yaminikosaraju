@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently preparing for FAANG
+- 🌱 I’m currently learning competitive coding -Medium Level
+- 🤔 I’m looking for help with System Design
+- ⚡ Fun fact: I like going for walks ans search for squirrels
 
 <!--
 **yaminikosaraju/yaminikosaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
