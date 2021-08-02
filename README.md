@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently preparing for FAANG
+- 🔭 I’m currently preparing for better opportunities
 - 🌱 I’m currently learning competitive coding -Medium Level
 - 🤔 I’m looking for help with System Design
 - ⚡ Fun fact: I like going for walks and search for squirrels
